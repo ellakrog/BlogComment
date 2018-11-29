@@ -1,0 +1,41 @@
+body, html {
+    height: 100%;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  
+.bg-image {
+    /* The image used */
+    background-image: url('images/putovanja1.jpg');
+  
+   
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+
+.container h1{
+    text-align: center;
+    padding-top:5px;
+    color: #4a4ac5;
+    font-family: cursive;
+    font-size: 160px;
+}
+.logReg{
+    background-color:#4a4ac5;
+    width:100%;
+}
+.logReg a{
+    color:white;
+  
+}
+  
